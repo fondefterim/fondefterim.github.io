@@ -1,0 +1,743 @@
+{
+ "format": 1,
+ "updated": "2026-11-08",
+ "funds": [
+  {
+   "code": "TLY",
+   "name": "Tera Portföy Birinci Serbest Fon",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 10308.9671,
+   "priceDate": "2026-09-16",
+   "investorCount": 102616,
+   "note": "Tasfiye öncesi son fiyat."
+  },
+  {
+   "code": "TP2",
+   "name": "Tera Portföy Para Piyasası (TL) Fonu",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 2.243343,
+   "priceDate": "2026-09-16",
+   "investorCount": 167000,
+   "note": "Para piyasası fonu; ara ödemede öncelikli. Tasfiye öncesi son fiyat."
+  },
+  {
+   "code": "THF",
+   "name": "Tera Portföy Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun)",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/61)",
+   "lastPrice": 0.768118,
+   "priceDate": "2026-09-24",
+   "investorCount": 214405,
+   "note": "24.09 fiyatı tasfiye sonrası değerleme (−%38,6). 16.09 fiyatınızı ekstreden girin."
+  },
+  {
+   "code": "DOH",
+   "name": "Tera Portföy Dördüncü Hisse Senedi Serbest (TL) Fon",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.392329,
+   "priceDate": "2026-09-24",
+   "investorCount": 43813,
+   "note": "24.09 fiyatı tasfiye sonrası değerleme (−%62,7). 16.09 fiyatınızı ekstreden girin."
+  },
+  {
+   "code": "T3B",
+   "name": "Tera Portföy Üçüncü Hisse Senedi Serbest (TL) Fon",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.077609,
+   "priceDate": "2026-09-24",
+   "investorCount": 16,
+   "note": null
+  },
+  {
+   "code": "TLV",
+   "name": "Tera Portföy Para Piyasası Katılım (TL) Fonu",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1.397008,
+   "priceDate": "2026-10-01",
+   "investorCount": 12177,
+   "note": "Para piyasası fonu."
+  },
+  {
+   "code": "TMV",
+   "name": "Tera Portföy Algoritmik Stratejiler Serbest Fon",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/75, 26.10)",
+   "lastPrice": null,
+   "priceDate": null,
+   "investorCount": null,
+   "note": "TEFAS dışı (nitelikli yatırımcı). Fiyatı ekstrenizden girin."
+  },
+  {
+   "code": "FSU",
+   "name": "Tera Portföy Fon Sepeti Fonu",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/75, 26.10)",
+   "lastPrice": null,
+   "priceDate": null,
+   "investorCount": null,
+   "note": "17.09'da yalnız işleme kapatıldı, 26.10'da tasfiyeye alındı. Fiyatı girin."
+  },
+  {
+   "code": "TMM",
+   "name": "Tera Portföy İkinci Serbest (Döviz) Fon",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/75, 26.10)",
+   "lastPrice": null,
+   "priceDate": null,
+   "investorCount": null,
+   "note": "Döviz fonu; fiyatı girin."
+  },
+  {
+   "code": "TRJ",
+   "name": "Tera Portföy Birinci Borçlanma Araçları (TL) Fonu",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/75, 26.10)",
+   "lastPrice": null,
+   "priceDate": null,
+   "investorCount": null,
+   "note": "Fiyatı girin."
+  },
+  {
+   "code": "TRU",
+   "name": "Tera Portföy Katılım Serbest (Döviz) Fon",
+   "manager": "Tera",
+   "status": "Tasfiye (2026/75, 26.10)",
+   "lastPrice": null,
+   "priceDate": null,
+   "investorCount": null,
+   "note": "Döviz fonu; fiyatı girin."
+  },
+  {
+   "code": "PRY",
+   "name": "Pusula Portföy Para Piyasası (TL) Fonu",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 3.245502,
+   "priceDate": "2026-11-02",
+   "investorCount": 38751,
+   "note": "Para piyasası fonu; tasfiye sonrası fiyat."
+  },
+  {
+   "code": "PNU",
+   "name": "Pusula Portföy İkinci Para Piyasası (TL) Fonu",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1.265159,
+   "priceDate": "2026-11-02",
+   "investorCount": 20164,
+   "note": "Para piyasası fonu; tasfiye sonrası fiyat."
+  },
+  {
+   "code": "PCS",
+   "name": "Pusula Portföy Üçüncü Hisse Senedi Serbest Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.61476,
+   "priceDate": "2026-09-15",
+   "investorCount": 28,
+   "note": null
+  },
+  {
+   "code": "PBH",
+   "name": "Pusula Portföy Birinci Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.759627,
+   "priceDate": "2026-11-02",
+   "investorCount": 12,
+   "note": "Tasfiye sonrası fiyat."
+  },
+  {
+   "code": "PHB",
+   "name": "Pusula Portföy Beşinci Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.210521,
+   "priceDate": "2026-11-02",
+   "investorCount": 15,
+   "note": "Tasfiye sonrası fiyat."
+  },
+  {
+   "code": "PHN",
+   "name": "Pusula Portföy İkinci Hisse Senedi Serbest Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 63.529678,
+   "priceDate": "2026-09-14",
+   "investorCount": 18,
+   "note": null
+  },
+  {
+   "code": "PGH",
+   "name": "Pusula Portföy Güney Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.622969,
+   "priceDate": "2026-11-02",
+   "investorCount": 12,
+   "note": "Tasfiye sonrası fiyat."
+  },
+  {
+   "code": "PKZ",
+   "name": "Pusula Portföy Kuzey Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.178459,
+   "priceDate": "2026-10-13",
+   "investorCount": 17,
+   "note": "Tasfiye sonrası fiyat."
+  },
+  {
+   "code": "PKM",
+   "name": "Pusula Portföy Para Piyasası Katılım (TL) Fonu",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1.097061,
+   "priceDate": "2026-11-02",
+   "investorCount": 348,
+   "note": "Para piyasası fonu."
+  },
+  {
+   "code": "PDG",
+   "name": "Pusula Portföy Doğu Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.150669,
+   "priceDate": "2026-11-02",
+   "investorCount": 11,
+   "note": null
+  },
+  {
+   "code": "PDC",
+   "name": "Pusula Portföy Dördüncü Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.013471,
+   "priceDate": "2026-09-25",
+   "investorCount": 15,
+   "note": null
+  },
+  {
+   "code": "PKD",
+   "name": "Pusula Portföy İkinci Katılım Hisse Senedi Serbest Fon",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.82453,
+   "priceDate": "2026-11-02",
+   "investorCount": 91,
+   "note": null
+  },
+  {
+   "code": "PHE",
+   "name": "Pusula Portföy Hisse Senedi Fonu (Hisse Senedi Yoğun)",
+   "manager": "Pusula",
+   "status": "Tasfiye (2026/75, 26.10)",
+   "lastPrice": 0.310542,
+   "priceDate": "2026-09-15",
+   "investorCount": 50351,
+   "note": "17.09'da yalnız işleme kapatıldı; 26.10 kararıyla Pusula'nın kalan fonları tasfiyeye alındı."
+  },
+  {
+   "code": "PSE",
+   "name": "Atlas Portföy Para Piyasası Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1.733182,
+   "priceDate": "2026-11-02",
+   "investorCount": 4834,
+   "note": "Para piyasası fonu; tasfiye sonrası fiyat."
+  },
+  {
+   "code": "DFI",
+   "name": "Atlas Portföy Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.243686,
+   "priceDate": "2026-11-02",
+   "investorCount": 47645,
+   "note": "Tasfiye sonrası fiyat (−%90 yılbaşından beri). 16.09 fiyatınızı girin."
+  },
+  {
+   "code": "PPT",
+   "name": "Atlas Portföy Para Piyasası (TL) Fonu",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 2.049731,
+   "priceDate": "2026-11-02",
+   "investorCount": 3818,
+   "note": "Para piyasası fonu."
+  },
+  {
+   "code": "GCD",
+   "name": "Atlas Portföy Ufuk Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 3.459626,
+   "priceDate": "2026-11-02",
+   "investorCount": 19,
+   "note": null
+  },
+  {
+   "code": "KHD",
+   "name": "Atlas Portföy İkinci Katılım Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1.099794,
+   "priceDate": "2026-11-02",
+   "investorCount": 12,
+   "note": null
+  },
+  {
+   "code": "BAC",
+   "name": "Atlas Portföy Birinci Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.415322,
+   "priceDate": "2026-11-02",
+   "investorCount": 12,
+   "note": null
+  },
+  {
+   "code": "SNY",
+   "name": "Atlas Portföy Sanayi Sektörü Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.61589,
+   "priceDate": "2026-11-02",
+   "investorCount": 370,
+   "note": null
+  },
+  {
+   "code": "AP4",
+   "name": "Atlas Portföy Dördüncü Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.578356,
+   "priceDate": "2026-11-02",
+   "investorCount": 11,
+   "note": null
+  },
+  {
+   "code": "KLH",
+   "name": "Atlas Portföy Katılım Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1.85515,
+   "priceDate": "2026-11-02",
+   "investorCount": 1782,
+   "note": null
+  },
+  {
+   "code": "LAI",
+   "name": "Atlas Portföy İkinci Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.373723,
+   "priceDate": "2026-11-02",
+   "investorCount": 12,
+   "note": null
+  },
+  {
+   "code": "LGO",
+   "name": "Atlas Portföy Algo Toros Hisse Senedi Serbest (TL) Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 2.626708,
+   "priceDate": "2026-11-02",
+   "investorCount": 11,
+   "note": null
+  },
+  {
+   "code": "UHS",
+   "name": "Atlas Portföy Üçüncü Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.317515,
+   "priceDate": "2026-11-02",
+   "investorCount": 13,
+   "note": null
+  },
+  {
+   "code": "BTJ",
+   "name": "Atlas Portföy İstatistiksel Arbitraj Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1.448473,
+   "priceDate": "2026-11-02",
+   "investorCount": 49,
+   "note": null
+  },
+  {
+   "code": "BSH",
+   "name": "Atlas Portföy Bankacılık Sektörü Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.942963,
+   "priceDate": "2026-11-02",
+   "investorCount": 120,
+   "note": null
+  },
+  {
+   "code": "AP5",
+   "name": "Atlas Portföy Beşinci Hisse Senedi Serbest Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.717652,
+   "priceDate": "2026-11-02",
+   "investorCount": 14,
+   "note": null
+  },
+  {
+   "code": "ABG",
+   "name": "Atlas Portföy Dördüncü Serbest (TL) Fon",
+   "manager": "Atlas",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.0001,
+   "priceDate": "2026-11-02",
+   "investorCount": 181,
+   "note": null
+  },
+  {
+   "code": "KSA",
+   "name": "Hedef Portföy Kısa Vadeli Serbest (TL) Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1.167383,
+   "priceDate": "2026-11-02",
+   "investorCount": 3894,
+   "note": null
+  },
+  {
+   "code": "HKJ",
+   "name": "Hedef Portföy Para Piyasası Serbest Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.659087,
+   "priceDate": "2026-11-02",
+   "investorCount": 1813,
+   "note": null
+  },
+  {
+   "code": "HPH",
+   "name": "Hedef Portföy Para Piyasası Katılım Fonu",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.618839,
+   "priceDate": "2026-11-02",
+   "investorCount": 6593,
+   "note": "Para piyasası fonu."
+  },
+  {
+   "code": "HYV",
+   "name": "Hedef Portföy Para Piyasası (TL) Fonu",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.200775,
+   "priceDate": "2026-11-02",
+   "investorCount": 6244,
+   "note": "Para piyasası fonu."
+  },
+  {
+   "code": "HDH",
+   "name": "Hedef Portföy Doğu Hisse Senedi Serbest (TL) Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 1038.8554,
+   "priceDate": "2026-11-02",
+   "investorCount": 16,
+   "note": null
+  },
+  {
+   "code": "HIM",
+   "name": "Hedef Portföy Birinci İstatistiksel Arbitraj Hisse Senedi Serbest Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.429001,
+   "priceDate": "2026-11-02",
+   "investorCount": 186,
+   "note": null
+  },
+  {
+   "code": "HDA",
+   "name": "Hedef Portföy Dördüncü İstatistiksel Arbitraj Hisse Senedi Serbest (TL) Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.305746,
+   "priceDate": "2026-11-02",
+   "investorCount": 480,
+   "note": null
+  },
+  {
+   "code": "DUH",
+   "name": "Hedef Portföy Ufuk Hisse Senedi Serbest Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.045232,
+   "priceDate": "2026-11-02",
+   "investorCount": 356,
+   "note": null
+  },
+  {
+   "code": "FNT",
+   "name": "Hedef Portföy Model Hisse Senedi Serbest (TL) Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.028238,
+   "priceDate": "2026-11-02",
+   "investorCount": 1547,
+   "note": null
+  },
+  {
+   "code": "HFI",
+   "name": "Hedef Portföy İkinci Katılım Hisse Senedi Serbest Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.066469,
+   "priceDate": "2026-11-02",
+   "investorCount": 125,
+   "note": null
+  },
+  {
+   "code": "HKM",
+   "name": "Hedef Portföy Başak Hisse Senedi Serbest (TL) Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.07785,
+   "priceDate": "2026-11-02",
+   "investorCount": 809,
+   "note": null
+  },
+  {
+   "code": "HEH",
+   "name": "Hedef Portföy Algo Everest İstatistiksel Arbitraj Hisse Senedi Serbest Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 6.1e-05,
+   "priceDate": "2026-11-02",
+   "investorCount": 1316,
+   "note": null
+  },
+  {
+   "code": "HDK",
+   "name": "Hedef Portföy Vega İstatistiksel Arbitraj Hisse Senedi Serbest Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.048444,
+   "priceDate": "2026-11-02",
+   "investorCount": 120,
+   "note": null
+  },
+  {
+   "code": "HAT",
+   "name": "Hedef Portföy Atlas İstatistiksel Arbitraj Hisse Senedi Serbest Fon",
+   "manager": "Hedef",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.151627,
+   "priceDate": "2026-11-02",
+   "investorCount": 73,
+   "note": null
+  },
+  {
+   "code": "KHA",
+   "name": "Pardus Portföy İkinci Hisse Senedi (TL) Fonu (Hisse Senedi Yoğun)",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.001419,
+   "priceDate": "2026-11-02",
+   "investorCount": 25138,
+   "note": "Tasfiye sonrası fiyat."
+  },
+  {
+   "code": "AC4",
+   "name": "Pardus Portföy Para Piyasası (TL) Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.002234,
+   "priceDate": "2026-11-02",
+   "investorCount": 4106,
+   "note": "Para piyasası fonu; tasfiye sonrası fiyat."
+  },
+  {
+   "code": "PYR",
+   "name": "Pardus Portföy Yirminci Hisse Senedi Serbest Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.025137,
+   "priceDate": "2026-11-02",
+   "investorCount": 998,
+   "note": null
+  },
+  {
+   "code": "BST",
+   "name": "Pardus Portföy Bankacılık Sektörü Dışı Şirketler Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.328408,
+   "priceDate": "2026-11-02",
+   "investorCount": 525,
+   "note": null
+  },
+  {
+   "code": "PMP",
+   "name": "Pardus Portföy Model Portföy Hisse Senedi Serbest Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.037733,
+   "priceDate": "2026-11-02",
+   "investorCount": 347,
+   "note": null
+  },
+  {
+   "code": "POS",
+   "name": "Pardus Portföy Onbeşinci Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.017689,
+   "priceDate": "2026-11-02",
+   "investorCount": 305,
+   "note": null
+  },
+  {
+   "code": "BRT",
+   "name": "Pardus Portföy Bereket Hisse Senedi Serbest Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.044489,
+   "priceDate": "2026-11-02",
+   "investorCount": 305,
+   "note": null
+  },
+  {
+   "code": "PAO",
+   "name": "Pardus Portföy Anadolu Hisse Senedi Serbest Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.061941,
+   "priceDate": "2026-11-02",
+   "investorCount": 205,
+   "note": null
+  },
+  {
+   "code": "IAU",
+   "name": "Pardus Portföy İkinci İstatistiksel Arbitraj Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.148356,
+   "priceDate": "2026-11-02",
+   "investorCount": 188,
+   "note": null
+  },
+  {
+   "code": "AC5",
+   "name": "Pardus Portföy İstatistiksel Arbitraj Hisse Senedi Serbest (TL) Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.173182,
+   "priceDate": "2026-11-02",
+   "investorCount": 142,
+   "note": null
+  },
+  {
+   "code": "PO9",
+   "name": "Pardus Portföy Ondokuzuncu Hisse Senedi Serbest Fon",
+   "manager": "Pardus",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.003659,
+   "priceDate": "2026-11-02",
+   "investorCount": 126,
+   "note": null
+  },
+  {
+   "code": "BPZ",
+   "name": "Bulls Portföy Para Piyasası (TL) Fonu",
+   "manager": "Bulls",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.001583,
+   "priceDate": "2026-11-02",
+   "investorCount": 2376,
+   "note": "Para piyasası fonu; tasfiye sonrası fiyat."
+  },
+  {
+   "code": "BMU",
+   "name": "Bulls Portföy Mutlak Getiri Hedefli Hisse Senedi Serbest Fon",
+   "manager": "Bulls",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.026182,
+   "priceDate": "2026-11-02",
+   "investorCount": 1901,
+   "note": null
+  },
+  {
+   "code": "BOS",
+   "name": "Bulls Portföy Altıncı Hisse Senedi Serbest Fon",
+   "manager": "Bulls",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.024953,
+   "priceDate": "2026-11-02",
+   "investorCount": 638,
+   "note": null
+  },
+  {
+   "code": "PAB",
+   "name": "A1 Capital Portföy Para Piyasası (TL) Fonu",
+   "manager": "A1 Capital",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.008797,
+   "priceDate": "2026-11-02",
+   "investorCount": 720,
+   "note": "Para piyasası fonu; tasfiye sonrası fiyat."
+  },
+  {
+   "code": "P1A",
+   "name": "A1 Capital Portföy Para Piyasası (TL) Serbest Fon",
+   "manager": "A1 Capital",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.002576,
+   "priceDate": "2026-11-02",
+   "investorCount": 342,
+   "note": null
+  },
+  {
+   "code": "CAH",
+   "name": "A1 Capital Portföy Hisse Senedi Serbest Fon",
+   "manager": "A1 Capital",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.05554,
+   "priceDate": "2026-11-02",
+   "investorCount": 170,
+   "note": null
+  },
+  {
+   "code": "AJ1",
+   "name": "A1 Capital Portföy İstatistiksel Arbitraj Hisse Senedi Serbest Fon",
+   "manager": "A1 Capital",
+   "status": "Tasfiye (2026/60)",
+   "lastPrice": 0.068811,
+   "priceDate": "2026-11-02",
+   "investorCount": 81,
+   "note": null
+  }
+ ],
+ "announcements": [
+  {
+   "id": "2026-11-08-yayin",
+   "date": "2026-11-08",
+   "kind": "duyuru",
+   "title": "Fon Defterim veri sayfası yayında",
+   "body": "Tasfiye listesindeki fonların bilgileri ve yeni duyurular bundan sonra buradan güncellenecek; uygulamayı güncellemene gerek kalmadan telefonuna gelir. Uygulama yalnızca bu herkese açık listeyi indirir, senin kayıtların hiçbir yere gönderilmez."
+  },
+  {
+   "id": "2026-11-08-gizlilik",
+   "date": "2026-11-08",
+   "kind": "belge",
+   "title": "Gizlilik politikası",
+   "body": "Fon Defterim hangi bilgileri işler, nerede saklar?",
+   "url": "https://fondefterim.github.io/gizlilik.html"
+  }
+ ]
+}
