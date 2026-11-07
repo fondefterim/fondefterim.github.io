@@ -1,0 +1,31 @@
+name: TCMB kurları
+
+on:
+  schedule:
+    # TCMB gösterge kurları iş günleri 15:30 civarı yayınlanır (saatler UTC; TSİ = UTC+3).
+    - cron: "50 12 * * 1-5"   # 15:50 TSİ
+    - cron: "30 14 * * 1-5"   # 17:30 TSİ (geç yayın için ikinci deneme)
+  workflow_dispatch: {}        # Actions sekmesinden elle çalıştırmak için
+
+permissions:
+  contents: write
+  pages: write
+
+jobs:
+  kur:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Kurları çek
+        run: python3 araclar/kur_guncelle.py
+      - name: Değiştiyse kaydet ve yayınla
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then echo "Değişiklik yok."; exit 0; fi
+          git config user.name "fondefterim"
+          git config user.email "fondefterim@users.noreply.github.com"
+          git add v1/kur.json
+          git commit -m "TCMB kurları"
+          git push
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
