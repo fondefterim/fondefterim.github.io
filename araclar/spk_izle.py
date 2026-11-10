@@ -21,7 +21,8 @@ BASLANGIC = "2026-09-16"
 EN_FAZLA_SPK = 200          # dosyada tutulacak en fazla SPK kaydı
 ANAHTAR = ["tasfiye", "7596", "temerrüt", "temerrut", "ara ödeme", "ara odeme", "pblk", "iade talimat",
            "isteğe bağlı iade", "tasfiye konusu fon", "tasfiyedeki fon"]
-YAPTIRIM = ["idari para ceza", "suç duyuru", "işlem yasağı", "tedbir", "yaptırım", "görevden"]
+YAPTIRIM = ["idari para ceza", "suç duyuru", "işlem yasağı"]
+SURUM = 2   # kayıt biçimi; değişince eski SPK kayıtları yeniden değerlendirilir
 AYLAR = {"oca": 1, "şub": 2, "sub": 2, "mar": 3, "nis": 4, "may": 5, "haz": 6, "tem": 7,
          "ağu": 8, "agu": 8, "eyl": 9, "eki": 10, "kas": 11, "ara": 12}
 
@@ -89,9 +90,10 @@ def ozet(kodlar, kurucular, yaptirim):
         parcalar.append("fonlar: " + kisa_liste(kodlar))
     if kurucular:
         parcalar.append("kurucular: " + ", ".join(kurucular))
+    metin = ("İçinde geçen " + "; ".join(parcalar) + ".") if parcalar else "Fon tasfiye süreciyle ilgili ifadeler geçiyor."
     if yaptirim:
-        parcalar.append("bu şirketlerle ilgili idari yaptırım/ceza bölümü var")
-    return ("İçinde geçen " + "; ".join(parcalar) + ".") if parcalar else "Fon tasfiye süreciyle ilgili ifadeler geçiyor."
+        metin += " Bu şirket adlarının geçtiği yerlerin yakınında idari para cezası, suç duyurusu ya da işlem yasağı ifadeleri var; ayrıntı için bülteni aç."
+    return metin
 
 
 def kisa_liste(kodlar, en_fazla=8):
@@ -132,7 +134,8 @@ def main():
     fonlar = veri["funds"]
     # Önceki sürümün eklediği alakasız SPK kayıtlarını temizle.
     once = len(veri["announcements"])
-    veri["announcements"] = [a for a in veri["announcements"] if not (a.get("source") == "spk" and a.get("notify") is False)]
+    veri["announcements"] = [a for a in veri["announcements"]
+                             if not (a.get("source") == "spk" and (a.get("notify") is False or a.get("v") != SURUM))]
     temizlenen = once - len(veri["announcements"])
     mevcut = {a["id"] for a in veri["announcements"]}
     yeni, atlanan = [], set()
@@ -149,7 +152,7 @@ def main():
             atlanan.add(kimlik)
             continue
         yeni.append({"id": kimlik, "date": b["date"], "kind": "duyuru", "source": "spk", "notify": True,
-                     "title": f"SPK Bülteni {b['no']}" + (" – idari yaptırım" if yaptirim else ""),
+                     "title": f"SPK Bülteni {b['no']}", "v": SURUM,
                      "body": f"{b['no']} sayılı SPK Bülteni. " + ozet(kodlar, kurucular, yaptirim),
                      "url": b["url"], "funds": kodlar or None})
 
@@ -170,7 +173,7 @@ def main():
             ek = d["summary"] or ilk_cumle(metin)
             if ek:
                 baslik = f"{baslik}: {ek}"
-        yeni.append({"id": kimlik, "date": d["date"], "kind": "duyuru", "source": "spk", "notify": True,
+        yeni.append({"id": kimlik, "date": d["date"], "kind": "duyuru", "source": "spk", "notify": True, "v": SURUM,
                      "title": "SPK: " + baslik[:160], "body": d["summary"] or ilk_cumle(metin, 200) or None,
                      "url": d["url"], "funds": kodlar or None})
 
