@@ -194,7 +194,7 @@ def main():
         f.write("\n")
     print(f"{len(yeni)} yeni ilgili SPK kaydı eklendi, {len(atlanan)} alakasız atlandı, {temizlenen} eski alakasız kayıt silindi.")
     for a in yeni:
-        print(" ", a["date"], a["title"][:90], "|", a["body"][:120])
+        print(" ", a["date"], a["title"][:90], "|", a.get("body", "")[:120])
 
 
 if __name__ == "__main__":
