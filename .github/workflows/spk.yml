@@ -1,0 +1,40 @@
+name: SPK takibi
+
+on:
+  schedule:
+    - cron: "20 5-19 * * *"   # her gün 08:20–22:20 TSİ arası saatte bir
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: site-yazma
+  cancel-in-progress: false
+
+jobs:
+  spk:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: PDF okuyucuyu kur
+        run: pip install --quiet pypdf
+      - name: SPK bülten ve duyurularını kontrol et
+        run: python3 araclar/spk_izle.py
+      - name: Değiştiyse kontrol et, kaydet ve yayınla
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet; then echo "Değişiklik yok."; exit 0; fi
+          python3 - <<'PY'
+          import json
+          d = json.load(open("v1/veri.json"))
+          assert d["format"] == 1 and d["funds"] and len(d["announcements"]) <= 500
+          PY
+          git config user.name "fondefterim"
+          git config user.email "fondefterim@users.noreply.github.com"
+          git add v1/veri.json
+          git commit -m "SPK takibi"
+          git pull --rebase origin main && git push
+          gh api -X POST "repos/${{ github.repository }}/pages/builds" || true
