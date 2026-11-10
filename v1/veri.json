@@ -725,15 +725,6 @@
  ],
  "announcements": [
   {
-   "id": "spk-basin-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari",
-   "date": "2026-11-09",
-   "kind": "duyuru",
-   "source": "spk",
-   "notify": true,
-   "title": "SPK: Fon Yatırımcılarına Yönelik Dolandırıcılık Amaçlı Girişimlere İlişkin Uyarı",
-   "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari"
-  },
-  {
    "id": "2026-11-08-yayin",
    "date": "2026-11-08",
    "kind": "duyuru",
@@ -754,18 +745,10 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
-   "title": "SPK Bülteni 2026/79 – idari yaptırım",
-   "body": "2026/79 sayılı SPK Bülteni. İçinde geçen kurucular: Hedef, Tera; bu şirketlerle ilgili idari yaptırım/ceza bölümü var.",
+   "title": "SPK Bülteni 2026/79",
+   "v": 2,
+   "body": "2026/79 sayılı SPK Bülteni. İçinde geçen kurucular: Hedef, Tera.",
    "url": "https://spk.gov.tr/data/6aee39678f95db3740d75ec3/2026-79.pdf"
-  },
-  {
-   "id": "spk-basin-tefasta-ve-tefas-disi-dagitim-kanallarinda-alim-ve-satima-kapali-fonlara-iliskin",
-   "date": "2026-11-06",
-   "kind": "duyuru",
-   "source": "spk",
-   "notify": true,
-   "title": "SPK: TEFAS’ta ve TEFAS Dışı Dağıtım Kanallarında Alım ve Satıma Kapalı Fonlara İlişkin Basın Duyurusu",
-   "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/tefasta-ve-tefas-disi-dagitim-kanallarinda-alim-ve-satima-kapali-fonlara-iliskin-basin-duyurusu"
   },
   {
    "id": "spk-bulten-2026-77",
@@ -774,7 +757,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/77",
-   "body": "2026/77 sayılı SPK Bülteni yayımlandı. Bültende fon tasfiyesiyle ilgili ifadeler geçiyor.",
+   "v": 2,
+   "body": "2026/77 sayılı SPK Bülteni. İçinde geçen kurucular: Tera.",
    "url": "https://spk.gov.tr/data/6ae0e2ce8f95dc0c1408d476/2026-77.pdf"
   },
   {
@@ -784,7 +768,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/76",
-   "body": "2026/76 sayılı SPK Bülteni yayımlandı. Bültende fon tasfiyesiyle ilgili ifadeler geçiyor.",
+   "v": 2,
+   "body": "2026/76 sayılı SPK Bülteni. İçinde geçen kurucular: Atlas, Pusula, Tera.",
    "url": "https://spk.gov.tr/data/6ae049c98f95db0c143f6579/2026-76.pdf"
   },
   {
@@ -793,6 +778,7 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
+   "v": 2,
    "title": "SPK: Basın Duyurusu: Tasfiye ve ödemelere ilişkin usul ve esaslar belirlendi.",
    "body": "Tasfiye ve ödemelere ilişkin usul ve esaslar belirlendi.",
    "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/basin-duyurusu_27102026"
@@ -804,7 +790,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/75",
-   "body": "2026/75 sayılı SPK Bülteni yayımlandı. Bültende fon tasfiyesiyle ilgili ifadeler geçiyor.",
+   "v": 2,
+   "body": "2026/75 sayılı SPK Bülteni. İçinde geçen kurucular: Pusula, Tera.",
    "url": "https://spk.gov.tr/data/6adf98e58f95db2330f22045/2026-75.pdf"
   },
   {
@@ -813,8 +800,9 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
-   "title": "SPK Bülteni 2026/73 – idari yaptırım",
-   "body": "2026/73 sayılı SPK Bülteni. İçinde geçen kurucular: Tera; bu şirketlerle ilgili idari yaptırım/ceza bölümü var.",
+   "title": "SPK Bülteni 2026/73",
+   "v": 2,
+   "body": "2026/73 sayılı SPK Bülteni. İçinde geçen kurucular: Tera.",
    "url": "https://spk.gov.tr/data/6ada50008f95db230867335b/2026-73.pdf"
   },
   {
@@ -823,6 +811,7 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
+   "v": 2,
    "title": "SPK: Takas Kesinliği ve PBLK Hususlarına İlişkin Basın Duyurusu",
    "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/takas-kesinligi-ve-pblk-hususlarina-iliskin-basin-duyurusu"
   },
@@ -833,6 +822,7 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/72",
+   "v": 2,
    "body": "2026/72 sayılı SPK Bülteni. İçinde geçen kurucular: Bulls, Pusula.",
    "url": "https://spk.gov.tr/data/6ad7d6b08f95db180cecbdda/2026-72.pdf"
   },
@@ -843,7 +833,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/71",
-   "body": "2026/71 sayılı SPK Bülteni yayımlandı. Bültende geçen fonlar: TLY, DOH, T3B, TMV.",
+   "v": 2,
+   "body": "2026/71 sayılı SPK Bülteni. İçinde geçen fonlar: TLY, DOH, T3B, TMV; kurucular: Tera.",
    "url": "https://spk.gov.tr/data/6ad64df08f95db044893e5bc/2026-71.pdf",
    "funds": [
     "TLY",
@@ -859,7 +850,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/70",
-   "body": "2026/70 sayılı SPK Bülteni yayımlandı. Bültende fon tasfiyesiyle ilgili ifadeler geçiyor.",
+   "v": 2,
+   "body": "2026/70 sayılı SPK Bülteni. İçinde geçen kurucular: A1 Capital, Bulls, Hedef, Tera.",
    "url": "https://spk.gov.tr/data/6ad27bb28f95db0550e64bbf/2026-70.pdf"
   },
   {
@@ -868,6 +860,7 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
+   "v": 2,
    "title": "SPK: Tasfiyedeki Fonlara İlişkin Ara Ödeme Duyurusu",
    "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/tasfiyedeki-fonlara-iliskin-ara-odeme-duyurusu"
   },
@@ -877,85 +870,9 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
+   "v": 2,
    "title": "SPK: A1 Capital Portföy Yönetimi A.Ş., Bulls Portföy Yönetimi A.Ş. ve Pardus Portföy Yönetimi A.Ş.’nin Kurucusu Olduğu Fonlara İlişkin Tasfiye Süreci Hakkında Duyuru",
    "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/a1-capital-portfoy-yonetimi-a-s-bulls-portfoy-yonetimi-a-s-ve-pardus-portfoy-yonetimi-a-s-nin-kurucusu-oldugu-fonlara-iliskin-tasfiye-sureci-hakkinda-duyuru"
-  },
-  {
-   "id": "spk-basin-istege-bagli-iade-hesaplarina-iliskin-duyuru",
-   "date": "2026-10-01",
-   "kind": "duyuru",
-   "source": "spk",
-   "notify": true,
-   "title": "SPK: İsteğe Bağlı İade Hesaplarına İlişkin Duyuru",
-   "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/istege-bagli-iade-hesaplarina-iliskin-duyuru",
-   "funds": [
-    "TLY",
-    "TP2",
-    "THF",
-    "DOH",
-    "T3B",
-    "TLV",
-    "PRY",
-    "PNU",
-    "PCS",
-    "PBH",
-    "PHB",
-    "PHN",
-    "PGH",
-    "PKZ",
-    "PKM",
-    "PDG",
-    "PDC",
-    "PKD",
-    "PSE",
-    "DFI",
-    "PPT",
-    "GCD",
-    "KHD",
-    "BAC",
-    "SNY",
-    "AP4",
-    "KLH",
-    "LAI",
-    "LGO",
-    "UHS",
-    "BTJ",
-    "BSH",
-    "AP5",
-    "ABG",
-    "KSA",
-    "HKJ",
-    "HPH",
-    "HYV",
-    "HDH",
-    "HIM",
-    "HDA",
-    "DUH",
-    "FNT",
-    "HFI",
-    "HKM",
-    "HEH",
-    "HDK",
-    "HAT",
-    "KHA",
-    "AC4",
-    "PYR",
-    "BST",
-    "PMP",
-    "POS",
-    "BRT",
-    "PAO",
-    "IAU",
-    "AC5",
-    "PO9",
-    "BPZ",
-    "BMU",
-    "BOS",
-    "PAB",
-    "P1A",
-    "CAH",
-    "AJ1"
-   ]
   },
   {
    "id": "spk-bulten-2026-67",
@@ -964,7 +881,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/67",
-   "body": "2026/67 sayılı SPK Bülteni yayımlandı. Bültende fon tasfiyesiyle ilgili ifadeler geçiyor.",
+   "v": 2,
+   "body": "2026/67 sayılı SPK Bülteni. İçinde geçen kurucular: A1 Capital, Atlas, Bulls, Hedef, Pardus, Pusula, Tera.",
    "url": "https://spk.gov.tr/data/6abd6d1f8f95db13586d22ff/2026-67.pdf"
   },
   {
@@ -973,8 +891,9 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
-   "title": "SPK Bülteni 2026/66 – idari yaptırım",
-   "body": "2026/66 sayılı SPK Bülteni. İçinde geçen kurucular: Tera; bu şirketlerle ilgili idari yaptırım/ceza bölümü var.",
+   "title": "SPK Bülteni 2026/66",
+   "v": 2,
+   "body": "2026/66 sayılı SPK Bülteni. İçinde geçen kurucular: Tera.",
    "url": "https://spk.gov.tr/data/6aba95a58f95db35c0bc956f/2026-66.pdf"
   },
   {
@@ -983,6 +902,7 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
+   "v": 2,
    "title": "SPK: Tasfiye Süresine İlişkin Basın Duyurusu",
    "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/tasfiye-suresine-iliskin-basin-duyurusu"
   },
@@ -992,8 +912,9 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
-   "title": "SPK Bülteni 2026/65 – idari yaptırım",
-   "body": "2026/65 sayılı SPK Bülteni. İçinde geçen kurucular: Tera; bu şirketlerle ilgili idari yaptırım/ceza bölümü var.",
+   "title": "SPK Bülteni 2026/65",
+   "v": 2,
+   "body": "2026/65 sayılı SPK Bülteni. İçinde geçen kurucular: Tera.",
    "url": "https://spk.gov.tr/data/6ab6a3da8f95db209cdba151/2026-65.pdf"
   },
   {
@@ -1003,6 +924,7 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/64",
+   "v": 2,
    "body": "2026/64 sayılı SPK Bülteni. İçinde geçen kurucular: Pardus, Tera.",
    "url": "https://spk.gov.tr/data/6ab434318f95db2a2c2319e2/2026-64.pdf"
   },
@@ -1012,6 +934,7 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
+   "v": 2,
    "title": "SPK: Tasfiye Konusu Fonlardaki Yatırımcı Sayısına İlişkin Açıklama",
    "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/tasfiye-konusu-fonlardaki-yatirimci-sayisina-iliskin-aciklama"
   },
@@ -1021,6 +944,7 @@
    "kind": "duyuru",
    "source": "spk",
    "notify": true,
+   "v": 2,
    "title": "SPK: Tasfiye Konusu Fonlara İlişkin Süre Düzenlemesi",
    "body": "Fon tasfiye usul ve esaslarından, sadece (A/8) numaralı maddesinde yer alan 3 aylık süre, 6 ay olarak değiştirilmiştir.",
    "url": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/tasfiye-konusu-fonlara-iliskin-sure-duzenlemesi"
@@ -1032,7 +956,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/62",
-   "body": "2026/62 sayılı SPK Bülteni yayımlandı. Bültende fon tasfiyesiyle ilgili ifadeler geçiyor.",
+   "v": 2,
+   "body": "2026/62 sayılı SPK Bülteni. Fon tasfiye süreciyle ilgili ifadeler geçiyor.",
    "url": "https://spk.gov.tr/data/6ab045158f95db2f50d96da8/2026-62.pdf"
   },
   {
@@ -1042,7 +967,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/61",
-   "body": "2026/61 sayılı SPK Bülteni yayımlandı. Bültende geçen fonlar: DFI, ABG.",
+   "v": 2,
+   "body": "2026/61 sayılı SPK Bülteni. İçinde geçen fonlar: DFI, ABG; kurucular: A1 Capital, Atlas, Bulls, Hedef, Pardus, Pusula, Tera.",
    "url": "https://spk.gov.tr/data/6aac56ff8f95db07100fd82d/2026-61.pdf",
    "funds": [
     "DFI",
@@ -1056,7 +982,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/60",
-   "body": "2026/60 sayılı SPK Bülteni yayımlandı. Bültende geçen fonlar: DFI, ABG.",
+   "v": 2,
+   "body": "2026/60 sayılı SPK Bülteni. İçinde geçen fonlar: DFI, ABG; kurucular: A1 Capital, Atlas, Bulls, Hedef, Pardus, Pusula, Tera.",
    "url": "https://spk.gov.tr/data/6aab8e7b8f95db07100fd7b4/2026-60.pdf",
    "funds": [
     "DFI",
@@ -1070,7 +997,8 @@
    "source": "spk",
    "notify": true,
    "title": "SPK Bülteni 2026/59",
-   "body": "2026/59 sayılı SPK Bülteni yayımlandı. Bültende fon tasfiyesiyle ilgili ifadeler geçiyor.",
+   "v": 2,
+   "body": "2026/59 sayılı SPK Bülteni. İçinde geçen kurucular: Pusula.",
    "url": "https://spk.gov.tr/data/6aab0e898f95db07100fd7a0/2026-59.pdf"
   }
  ]
