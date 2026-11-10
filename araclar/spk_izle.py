@@ -96,6 +96,13 @@ def ozet(kodlar, kurucular, yaptirim):
     return metin
 
 
+def duyuru_metni(sayfa):
+    """Detay sayfasından yalnızca duyurunun kendi metni (menü ve yan listeler hariç)."""
+    spot = re.search(r'<div class="spot">(.*?)</div>', sayfa, re.S)
+    govde = re.search(r'<div class="icerik styled-content">(.*?)(?:<div class="line|</main>)', sayfa, re.S)
+    return temiz(" ".join(m.group(1) for m in (spot, govde) if m))
+
+
 def kisa_liste(kodlar, en_fazla=8):
     return ", ".join(kodlar) if len(kodlar) <= en_fazla else ", ".join(kodlar[:en_fazla]) + f" ve {len(kodlar) - en_fazla} fon daha"
 
@@ -162,8 +169,9 @@ def main():
             continue
         try:
             metin = duyuru_metni(indir(d["url"]))
-        except Exception:
-            metin = ""
+        except Exception as e:
+            print("Duyuru okunamadı, sonra yeniden denenecek:", d["url"], e, file=sys.stderr)
+            continue
         kodlar, kurucular, yaptirim, ilgi = ilgili(" ".join([d["title"], d["summary"], metin]), fonlar)
         if not ilgi:
             atlanan.add(kimlik)
