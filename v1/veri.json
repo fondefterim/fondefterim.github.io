@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-14",
+ "updated": "2026-11-15",
  "funds": [
   {
    "code": "TLY",
@@ -856,6 +856,15 @@
   }
  ],
  "announcements": [
+  {
+   "id": "2026-11-15-site",
+   "date": "2026-11-15",
+   "kind": "duyuru",
+   "notify": true,
+   "title": "fondefterim.com yayında",
+   "body": "Sitemiz açıldı: net yatırımını Excel ya da PDF ekstrenle tarayıcıda hesapla; 72 fonun 16.09 fiyatı, SPK duyuruları ve KAP bağlantıları fon sayfalarında. Ekstren hiçbir yere gitmez.",
+   "url": "https://fondefterim.com"
+  },
   {
    "id": "spk-bulten-2026-80",
    "date": "2026-11-13",
