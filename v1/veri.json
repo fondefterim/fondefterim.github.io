@@ -857,6 +857,15 @@
  ],
  "announcements": [
   {
+   "id": "2026-11-15-coklu-pdf",
+   "date": "2026-11-15",
+   "kind": "duyuru",
+   "notify": true,
+   "title": "Hesaplayıcı artık birden fazla PDF ekstre okuyor",
+   "body": "Her ayın ya da her aracı kurumun ekstresini tek seferde seçebilirsin; iki ekstrede geçen işlem bir kez sayılır. Dosyaların yine hiçbir yere gönderilmez.",
+   "url": "https://fondefterim.com/hesapla.html"
+  },
+  {
    "id": "2026-11-15-site-yayin",
    "date": "2026-11-15",
    "kind": "duyuru",
