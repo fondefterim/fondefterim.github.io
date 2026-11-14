@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-08",
+ "updated": "2026-11-14",
  "funds": [
   {
    "code": "TLY",
@@ -29,8 +29,10 @@
    "status": "Tasfiye (2026/61)",
    "lastPrice": 0.768118,
    "priceDate": "2026-09-24",
+   "price1609": 2.923361,
+   "price1609Source": "derleme",
    "investorCount": 214405,
-   "note": "24.09 fiyatı tasfiye sonrası değerleme (−%38,6). 16.09 fiyatınızı ekstreden girin."
+   "note": "24.09 fiyatı tasfiye sonrası değerleme (16.09'a göre −%73,7). 16.09 fiyatı listede; ekstrendekiyle karşılaştır."
   },
   {
    "code": "DOH",
@@ -39,8 +41,10 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.392329,
    "priceDate": "2026-09-24",
+   "price1609": 2.566793,
+   "price1609Source": "derleme",
    "investorCount": 43813,
-   "note": "24.09 fiyatı tasfiye sonrası değerleme (−%62,7). 16.09 fiyatınızı ekstreden girin."
+   "note": "24.09 fiyatı tasfiye sonrası değerleme (16.09'a göre −%84,7). 16.09 fiyatı listede; ekstrendekiyle karşılaştır."
   },
   {
    "code": "T3B",
@@ -49,6 +53,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.077609,
    "priceDate": "2026-09-24",
+   "price1609": 0.147534,
+   "price1609Source": "derleme",
    "investorCount": 16,
    "note": null
   },
@@ -59,6 +65,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1.397008,
    "priceDate": "2026-10-01",
+   "price1609": 1.403881,
+   "price1609Source": "derleme",
    "investorCount": 12177,
    "note": "Para piyasası fonu."
   },
@@ -69,8 +77,10 @@
    "status": "Tasfiye (2026/75, 26.10)",
    "lastPrice": null,
    "priceDate": null,
+   "price1609": 11.369375,
+   "price1609Source": "derleme",
    "investorCount": null,
-   "note": "TEFAS dışı (nitelikli yatırımcı). Fiyatı ekstrenizden girin."
+   "note": "TEFAS dışı (nitelikli yatırımcı). 16.09 fiyatı listede; ekstrendekiyle karşılaştır."
   },
   {
    "code": "FSU",
@@ -79,8 +89,10 @@
    "status": "Tasfiye (2026/75, 26.10)",
    "lastPrice": null,
    "priceDate": null,
+   "price1609": 1.486482,
+   "price1609Source": "derleme",
    "investorCount": null,
-   "note": "17.09'da yalnız işleme kapatıldı, 26.10'da tasfiyeye alındı. Fiyatı girin."
+   "note": "17.09'da yalnız işleme kapatıldı, 26.10'da tasfiyeye alındı. 16.09 fiyatı listede."
   },
   {
    "code": "TMM",
@@ -89,8 +101,10 @@
    "status": "Tasfiye (2026/75, 26.10)",
    "lastPrice": null,
    "priceDate": null,
+   "price1609": 76.020379,
+   "price1609Source": "derleme",
    "investorCount": null,
-   "note": "Döviz fonu; fiyatı girin."
+   "note": "Döviz fonu. 16.09 fiyatı listede."
   },
   {
    "code": "TRJ",
@@ -99,8 +113,10 @@
    "status": "Tasfiye (2026/75, 26.10)",
    "lastPrice": null,
    "priceDate": null,
+   "price1609": 2.23566,
+   "price1609Source": "derleme",
    "investorCount": null,
-   "note": "Fiyatı girin."
+   "note": "16.09 fiyatı listede."
   },
   {
    "code": "TRU",
@@ -119,6 +135,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 3.245502,
    "priceDate": "2026-11-02",
+   "price1609": 3.288388,
+   "price1609Source": "derleme",
    "investorCount": 38751,
    "note": "Para piyasası fonu; tasfiye sonrası fiyat."
   },
@@ -129,6 +147,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1.265159,
    "priceDate": "2026-11-02",
+   "price1609": 1.283142,
+   "price1609Source": "derleme",
    "investorCount": 20164,
    "note": "Para piyasası fonu; tasfiye sonrası fiyat."
   },
@@ -149,6 +169,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.759627,
    "priceDate": "2026-11-02",
+   "price1609": 1.215453,
+   "price1609Source": "derleme",
    "investorCount": 12,
    "note": "Tasfiye sonrası fiyat."
   },
@@ -159,6 +181,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.210521,
    "priceDate": "2026-11-02",
+   "price1609": 0.863602,
+   "price1609Source": "derleme",
    "investorCount": 15,
    "note": "Tasfiye sonrası fiyat."
   },
@@ -179,6 +203,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.622969,
    "priceDate": "2026-11-02",
+   "price1609": 1.967429,
+   "price1609Source": "derleme",
    "investorCount": 12,
    "note": "Tasfiye sonrası fiyat."
   },
@@ -189,6 +215,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.178459,
    "priceDate": "2026-10-13",
+   "price1609": 6.530213,
+   "price1609Source": "derleme",
    "investorCount": 17,
    "note": "Tasfiye sonrası fiyat."
   },
@@ -199,6 +227,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1.097061,
    "priceDate": "2026-11-02",
+   "price1609": 1.098537,
+   "price1609Source": "derleme",
    "investorCount": 348,
    "note": "Para piyasası fonu."
   },
@@ -209,6 +239,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.150669,
    "priceDate": "2026-11-02",
+   "price1609": 0.408624,
+   "price1609Source": "derleme",
    "investorCount": 11,
    "note": null
   },
@@ -219,6 +251,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.013471,
    "priceDate": "2026-09-25",
+   "price1609": 0.214947,
+   "price1609Source": "derleme",
    "investorCount": 15,
    "note": null
   },
@@ -229,6 +263,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.82453,
    "priceDate": "2026-11-02",
+   "price1609": 0.916235,
+   "price1609Source": "derleme",
    "investorCount": 91,
    "note": null
   },
@@ -249,6 +285,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1.733182,
    "priceDate": "2026-11-02",
+   "price1609": 1.936053,
+   "price1609Source": "derleme",
    "investorCount": 4834,
    "note": "Para piyasası fonu; tasfiye sonrası fiyat."
   },
@@ -259,8 +297,10 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.243686,
    "priceDate": "2026-11-02",
+   "price1609": 6.548005,
+   "price1609Source": "derleme",
    "investorCount": 47645,
-   "note": "Tasfiye sonrası fiyat (−%90 yılbaşından beri). 16.09 fiyatınızı girin."
+   "note": "Son fiyat tasfiye sonrası (16.09'a göre −%96,3). 16.09 fiyatı listede; ekstrendekiyle karşılaştır."
   },
   {
    "code": "PPT",
@@ -269,6 +309,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 2.049731,
    "priceDate": "2026-11-02",
+   "price1609": 3.378255,
+   "price1609Source": "derleme",
    "investorCount": 3818,
    "note": "Para piyasası fonu."
   },
@@ -279,6 +321,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 3.459626,
    "priceDate": "2026-11-02",
+   "price1609": 3.962272,
+   "price1609Source": "derleme",
    "investorCount": 19,
    "note": null
   },
@@ -289,6 +333,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1.099794,
    "priceDate": "2026-11-02",
+   "price1609": 1.414434,
+   "price1609Source": "derleme",
    "investorCount": 12,
    "note": null
   },
@@ -299,6 +345,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.415322,
    "priceDate": "2026-11-02",
+   "price1609": 1.170315,
+   "price1609Source": "derleme",
    "investorCount": 12,
    "note": null
   },
@@ -309,6 +357,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.61589,
    "priceDate": "2026-11-02",
+   "price1609": 1.238828,
+   "price1609Source": "derleme",
    "investorCount": 370,
    "note": null
   },
@@ -319,6 +369,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.578356,
    "priceDate": "2026-11-02",
+   "price1609": 0.945178,
+   "price1609Source": "derleme",
    "investorCount": 11,
    "note": null
   },
@@ -329,6 +381,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1.85515,
    "priceDate": "2026-11-02",
+   "price1609": 2.452931,
+   "price1609Source": "derleme",
    "investorCount": 1782,
    "note": null
   },
@@ -339,6 +393,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.373723,
    "priceDate": "2026-11-02",
+   "price1609": 1.156448,
+   "price1609Source": "derleme",
    "investorCount": 12,
    "note": null
   },
@@ -349,6 +405,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 2.626708,
    "priceDate": "2026-11-02",
+   "price1609": 6.232307,
+   "price1609Source": "derleme",
    "investorCount": 11,
    "note": null
   },
@@ -359,6 +417,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.317515,
    "priceDate": "2026-11-02",
+   "price1609": 8.565933,
+   "price1609Source": "derleme",
    "investorCount": 13,
    "note": null
   },
@@ -369,6 +429,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1.448473,
    "priceDate": "2026-11-02",
+   "price1609": 1.401715,
+   "price1609Source": "derleme",
    "investorCount": 49,
    "note": null
   },
@@ -379,6 +441,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.942963,
    "priceDate": "2026-11-02",
+   "price1609": 0.979611,
+   "price1609Source": "derleme",
    "investorCount": 120,
    "note": null
   },
@@ -389,6 +453,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.717652,
    "priceDate": "2026-11-02",
+   "price1609": 0.806803,
+   "price1609Source": "derleme",
    "investorCount": 14,
    "note": null
   },
@@ -399,6 +465,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.0001,
    "priceDate": "2026-11-02",
+   "price1609": 135.122433,
+   "price1609Source": "derleme",
    "investorCount": 181,
    "note": null
   },
@@ -409,6 +477,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1.167383,
    "priceDate": "2026-11-02",
+   "price1609": 4.235966,
+   "price1609Source": "derleme",
    "investorCount": 3894,
    "note": null
   },
@@ -419,6 +489,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.659087,
    "priceDate": "2026-11-02",
+   "price1609": 1.447563,
+   "price1609Source": "derleme",
    "investorCount": 1813,
    "note": null
   },
@@ -429,6 +501,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.618839,
    "priceDate": "2026-11-02",
+   "price1609": 2.434937,
+   "price1609Source": "derleme",
    "investorCount": 6593,
    "note": "Para piyasası fonu."
   },
@@ -439,6 +513,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.200775,
    "priceDate": "2026-11-02",
+   "price1609": 6.49879,
+   "price1609Source": "derleme",
    "investorCount": 6244,
    "note": "Para piyasası fonu."
   },
@@ -449,6 +525,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 1038.8554,
    "priceDate": "2026-11-02",
+   "price1609": 3317.42131,
+   "price1609Source": "derleme",
    "investorCount": 16,
    "note": null
   },
@@ -459,6 +537,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.429001,
    "priceDate": "2026-11-02",
+   "price1609": 4.063268,
+   "price1609Source": "derleme",
    "investorCount": 186,
    "note": null
   },
@@ -469,6 +549,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.305746,
    "priceDate": "2026-11-02",
+   "price1609": 3.177623,
+   "price1609Source": "derleme",
    "investorCount": 480,
    "note": null
   },
@@ -479,6 +561,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.045232,
    "priceDate": "2026-11-02",
+   "price1609": 1.044251,
+   "price1609Source": "derleme",
    "investorCount": 356,
    "note": null
   },
@@ -489,6 +573,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.028238,
    "priceDate": "2026-11-02",
+   "price1609": 2.004464,
+   "price1609Source": "derleme",
    "investorCount": 1547,
    "note": null
   },
@@ -499,6 +585,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.066469,
    "priceDate": "2026-11-02",
+   "price1609": 1.751374,
+   "price1609Source": "derleme",
    "investorCount": 125,
    "note": null
   },
@@ -509,6 +597,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.07785,
    "priceDate": "2026-11-02",
+   "price1609": 3.727769,
+   "price1609Source": "derleme",
    "investorCount": 809,
    "note": null
   },
@@ -519,6 +609,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 6.1e-05,
    "priceDate": "2026-11-02",
+   "price1609": 3.350047,
+   "price1609Source": "derleme",
    "investorCount": 1316,
    "note": null
   },
@@ -529,6 +621,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.048444,
    "priceDate": "2026-11-02",
+   "price1609": 3.040744,
+   "price1609Source": "derleme",
    "investorCount": 120,
    "note": null
   },
@@ -539,6 +633,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.151627,
    "priceDate": "2026-11-02",
+   "price1609": 1.876227,
+   "price1609Source": "derleme",
    "investorCount": 73,
    "note": null
   },
@@ -549,6 +645,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.001419,
    "priceDate": "2026-11-02",
+   "price1609": 4.555175,
+   "price1609Source": "derleme",
    "investorCount": 25138,
    "note": "Tasfiye sonrası fiyat."
   },
@@ -559,6 +657,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.002234,
    "priceDate": "2026-11-02",
+   "price1609": 4.116252,
+   "price1609Source": "derleme",
    "investorCount": 4106,
    "note": "Para piyasası fonu; tasfiye sonrası fiyat."
   },
@@ -569,6 +669,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.025137,
    "priceDate": "2026-11-02",
+   "price1609": 1.145999,
+   "price1609Source": "derleme",
    "investorCount": 998,
    "note": null
   },
@@ -579,6 +681,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.328408,
    "priceDate": "2026-11-02",
+   "price1609": 10.424106,
+   "price1609Source": "derleme",
    "investorCount": 525,
    "note": null
   },
@@ -589,6 +693,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.037733,
    "priceDate": "2026-11-02",
+   "price1609": 0.721151,
+   "price1609Source": "derleme",
    "investorCount": 347,
    "note": null
   },
@@ -599,6 +705,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.017689,
    "priceDate": "2026-11-02",
+   "price1609": 1.111738,
+   "price1609Source": "derleme",
    "investorCount": 305,
    "note": null
   },
@@ -609,6 +717,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.044489,
    "priceDate": "2026-11-02",
+   "price1609": 0.805998,
+   "price1609Source": "derleme",
    "investorCount": 305,
    "note": null
   },
@@ -619,6 +729,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.061941,
    "priceDate": "2026-11-02",
+   "price1609": 1.090675,
+   "price1609Source": "derleme",
    "investorCount": 205,
    "note": null
   },
@@ -629,6 +741,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.148356,
    "priceDate": "2026-11-02",
+   "price1609": 2.703293,
+   "price1609Source": "derleme",
    "investorCount": 188,
    "note": null
   },
@@ -639,6 +753,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.173182,
    "priceDate": "2026-11-02",
+   "price1609": 3.794818,
+   "price1609Source": "derleme",
    "investorCount": 142,
    "note": null
   },
@@ -649,6 +765,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.003659,
    "priceDate": "2026-11-02",
+   "price1609": 0.679355,
+   "price1609Source": "derleme",
    "investorCount": 126,
    "note": null
   },
@@ -659,6 +777,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.001583,
    "priceDate": "2026-11-02",
+   "price1609": 1.642584,
+   "price1609Source": "derleme",
    "investorCount": 2376,
    "note": "Para piyasası fonu; tasfiye sonrası fiyat."
   },
@@ -669,6 +789,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.026182,
    "priceDate": "2026-11-02",
+   "price1609": 2.446277,
+   "price1609Source": "derleme",
    "investorCount": 1901,
    "note": null
   },
@@ -679,6 +801,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.024953,
    "priceDate": "2026-11-02",
+   "price1609": 1.210891,
+   "price1609Source": "derleme",
    "investorCount": 638,
    "note": null
   },
@@ -689,6 +813,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.008797,
    "priceDate": "2026-11-02",
+   "price1609": 1.450875,
+   "price1609Source": "derleme",
    "investorCount": 720,
    "note": "Para piyasası fonu; tasfiye sonrası fiyat."
   },
@@ -699,6 +825,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.002576,
    "priceDate": "2026-11-02",
+   "price1609": 1.576107,
+   "price1609Source": "derleme",
    "investorCount": 342,
    "note": null
   },
@@ -709,6 +837,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.05554,
    "priceDate": "2026-11-02",
+   "price1609": 1.196702,
+   "price1609Source": "derleme",
    "investorCount": 170,
    "note": null
   },
@@ -719,6 +849,8 @@
    "status": "Tasfiye (2026/60)",
    "lastPrice": 0.068811,
    "priceDate": "2026-11-02",
+   "price1609": 1.357884,
+   "price1609Source": "derleme",
    "investorCount": 81,
    "note": null
   }
