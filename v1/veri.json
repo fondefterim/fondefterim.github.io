@@ -725,6 +725,17 @@
  ],
  "announcements": [
   {
+   "id": "spk-bulten-2026-80",
+   "date": "2026-11-13",
+   "kind": "duyuru",
+   "source": "spk",
+   "notify": true,
+   "title": "SPK Bülteni 2026/80",
+   "v": 2,
+   "body": "2026/80 sayılı SPK Bülteni. İçinde geçen kurucular: A1 Capital, Pardus, Tera.",
+   "url": "https://spk.gov.tr/data/6af772b98f95db208cf81cc3/2026-80.pdf"
+  },
+  {
    "id": "spk-basin-fon-yatirimcilarina-yonelik-dolandiricilik-amacli-girisimlere-iliskin-uyari",
    "date": "2026-11-09",
    "kind": "duyuru",
