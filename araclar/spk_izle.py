@@ -207,3 +207,10 @@ def main():
 
 if __name__ == "__main__":
     main()
+    # Aynı saatlik işte Yatırımcı Tazmin Merkezi (YTM) duyuruları da kontrol edilir (araclar/ytm_izle.py).
+    # YTM sitesine ulaşılamazsa SPK takibi yine yayımlanır.
+    try:
+        import ytm_izle
+        ytm_izle.main()
+    except Exception as e:
+        print("YTM kontrolü atlandı:", e, file=sys.stderr)

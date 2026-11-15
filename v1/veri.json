@@ -892,6 +892,16 @@
    "url": "https://fondefterim.com"
   },
   {
+   "id": "ytm-57",
+   "date": "2026-11-13",
+   "kind": "duyuru",
+   "source": "ytm",
+   "notify": false,
+   "title": "YTM duyurusu",
+   "body": "Alacaklılar cetvelinin biran önce oluşturulabilmesini teminen tazmin başvuru formu ve eklerinin 30/12/2026 tarihine kadar Merkezimize elden, posta veya kargo ile iletilmesi gerekmektedir.",
+   "url": "https://www.ytm.gov.tr/Home/Duyuru/57"
+  },
+  {
    "id": "spk-bulten-2026-80",
    "date": "2026-11-13",
    "kind": "duyuru",
@@ -949,6 +959,46 @@
    "v": 2,
    "body": "2026/79 sayılı SPK Bülteni. İçinde geçen kurucular: Hedef, Tera.",
    "url": "https://spk.gov.tr/data/6aee39678f95db3740d75ec3/2026-79.pdf"
+  },
+  {
+   "id": "ytm-56",
+   "date": "2026-11-05",
+   "kind": "duyuru",
+   "source": "ytm",
+   "notify": false,
+   "title": "YTM: Tazmin talebi başvuru formu",
+   "body": "Tera Yatırım Menkul Değerler AŞ nezdinde hesabı bulunan yatırımcıların tazmin başvuruları için aşağıdaki linkte yer alan formu kullanmaları gerekmektedir.",
+   "url": "https://www.ytm.gov.tr/Home/Duyuru/56"
+  },
+  {
+   "id": "ytm-55",
+   "date": "2026-11-04",
+   "kind": "duyuru",
+   "source": "ytm",
+   "notify": false,
+   "title": "YTM: Tera Yatırım Menkul Değerler AŞ’ye yapılması gereken para transferleri hakkında",
+   "body": "Tedrici tasfiyesine karar verilen ve tasfiyesi Yatırımcı Tazmin Merkezi (YTM) tarafından yürütülen Tera Yatırım Menkul Değerler AŞ 'ye yapılması gereken para transferlerinde kullanılacak banka hesap…",
+   "url": "https://www.ytm.gov.tr/Home/Duyuru/55"
+  },
+  {
+   "id": "ytm-54",
+   "date": "2026-10-30",
+   "kind": "duyuru",
+   "source": "ytm",
+   "notify": false,
+   "title": "YTM duyurusu",
+   "body": "Yatırımcıların bilgi taleplerinin karşılanmasını teminen yapılan açıklama",
+   "url": "https://www.ytm.gov.tr/Home/Duyuru/54"
+  },
+  {
+   "id": "ytm-53",
+   "date": "2026-10-28",
+   "kind": "duyuru",
+   "source": "ytm",
+   "notify": false,
+   "title": "YTM duyurusu (Tera Yatırım Menkul Değerler AŞ)",
+   "body": "Tera Yatırım Menkul Değerler AŞ’nin yatırımcılarının tazminine ilişkin duyuru",
+   "url": "https://www.ytm.gov.tr/Home/Duyuru/53"
   },
   {
    "id": "spk-bulten-2026-77",
@@ -1053,6 +1103,16 @@
    "v": 2,
    "body": "2026/70 sayılı SPK Bülteni. İçinde geçen kurucular: A1 Capital, Bulls, Hedef, Tera.",
    "url": "https://spk.gov.tr/data/6ad27bb28f95db0550e64bbf/2026-70.pdf"
+  },
+  {
+   "id": "ytm-51",
+   "date": "2026-10-04",
+   "kind": "duyuru",
+   "source": "ytm",
+   "notify": false,
+   "title": "YTM duyurusu (Basın Açıklaması)",
+   "body": "Bazı yayın organlarında ve sosyal medya hesaplarında yer alan, \"Yatırımcı Tazmin Merkezi (YTM) malvarlığının korunmasına ilişkin hükmün Temmuz 2026'da ilk kez düzenlendiği\" yönündeki iddialar…",
+   "url": "https://www.ytm.gov.tr/Home/Duyuru/51"
   },
   {
    "id": "spk-basin-istege-bagli-iade-hesaplarina-iliskin-duyuru",
