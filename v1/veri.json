@@ -857,6 +857,15 @@
  ],
  "announcements": [
   {
+   "id": "2026-11-15-ytm-tera",
+   "date": "2026-11-15",
+   "kind": "duyuru",
+   "notify": true,
+   "title": "Tera Yatırım müşterileri: YTM başvurusu 30 Aralık'a kadar",
+   "body": "Tera Yatırım'da kalan nakit ve menkul kıymet alacakları için Yatırımcı Tazmin Merkezi'ne başvurunun son günü 30.12.2026. Form tazmin.ytm.gov.tr adresinde doldurulur; ıslak imzalı çıktısı eklerle birlikte elden, postayla ya da kargoyla YTM'ye gönderilir. Alacaklara faiz işlemez, bu yüzden başvuruyu geciktirme. Bilgileri yalnızca ytm.gov.tr'den kontrol et; senden para ya da şifre isteyenlere itibar etme.",
+   "url": "https://www.ytm.gov.tr/Home/Duyuru/57"
+  },
+  {
    "id": "2026-11-15-otomatik-yedek",
    "date": "2026-11-15",
    "kind": "duyuru",
