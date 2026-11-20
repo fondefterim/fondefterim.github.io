@@ -857,6 +857,17 @@
  ],
  "announcements": [
   {
+   "id": "spk-bulten-2026-82",
+   "date": "2026-11-20",
+   "kind": "duyuru",
+   "source": "spk",
+   "notify": true,
+   "title": "SPK Bülteni 2026/82",
+   "v": 2,
+   "body": "2026/82 sayılı SPK Bülteni. İçinde geçen kurucular: Tera.",
+   "url": "https://spk.gov.tr/data/6aff68a68f95db1a509dd7ff/2026-82.pdf"
+  },
+  {
    "id": "2026-11-15-ytm-tera",
    "date": "2026-11-15",
    "kind": "duyuru",
