@@ -1,34 +1,34 @@
 {
  "format": 1,
  "source": "TCMB",
- "date": "2026-11-19",
- "bulletin": "2026/218",
- "previousDate": "2026-11-18",
- "fetchedAt": "2026-11-19T14:03:44Z",
+ "date": "2026-11-20",
+ "bulletin": "2026/219",
+ "previousDate": "2026-11-19",
+ "fetchedAt": "2026-11-20T14:01:39Z",
  "rates": [
   {
    "code": "USD",
    "name": "ABD Doları",
    "unit": 1,
-   "buying": 50.3786,
-   "selling": 50.4694,
-   "previousSelling": 50.4444
+   "buying": 50.4028,
+   "selling": 50.4936,
+   "previousSelling": 50.4694
   },
   {
    "code": "EUR",
    "name": "Euro",
    "unit": 1,
-   "buying": 55.3581,
-   "selling": 55.4579,
-   "previousSelling": 55.3446
+   "buying": 55.2974,
+   "selling": 55.397,
+   "previousSelling": 55.4579
   },
   {
    "code": "GBP",
    "name": "İngiliz Sterlini",
    "unit": 1,
-   "buying": 66.1557,
-   "selling": 66.5006,
-   "previousSelling": 66.5506
+   "buying": 65.9363,
+   "selling": 66.2801,
+   "previousSelling": 66.5006
   }
  ]
 }
