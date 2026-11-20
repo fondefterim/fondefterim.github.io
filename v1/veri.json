@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-15",
+ "updated": "2026-11-20",
  "funds": [
   {
    "code": "TLY",
@@ -856,6 +856,15 @@
   }
  ],
  "announcements": [
+  {
+   "id": "2026-11-20-app-store",
+   "date": "2026-11-20",
+   "kind": "duyuru",
+   "notify": true,
+   "title": "Fon Defterim App Store'da",
+   "body": "iPhone uygulaması artık App Store'da, ücretsiz: işlemlerini ve tasfiyeden gelen ödemeleri kaydet, net yatırımını ve kalan alacağını gör; ekstren telefonunda okunur, hiçbir yere gitmez. Android ve bilgisayar için sitedeki hesaplayıcı kullanılmaya devam ediyor.",
+   "url": "https://apps.apple.com/tr/app/fon-defterim/id6836281635"
+  },
   {
    "id": "spk-bulten-2026-82",
    "date": "2026-11-20",
