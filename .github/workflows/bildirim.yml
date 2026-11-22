@@ -1,0 +1,31 @@
+name: Anlık bildirim
+
+on:
+  push:
+    branches: [main]
+    paths: [v1/veri.json]
+  workflow_run:
+    workflows: ["SPK takibi"]
+    types: [completed]
+  workflow_dispatch: {}
+
+permissions:
+  contents: read
+
+concurrency:
+  group: bildirim
+  cancel-in-progress: false
+
+jobs:
+  gonder:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Yeni genel duyuruları bildir
+        env:
+          CK_ANAHTAR_ID: ${{ secrets.CK_ANAHTAR_ID }}
+          CK_OZEL_ANAHTAR: ${{ secrets.CK_OZEL_ANAHTAR }}
+          CK_ORTAM: ${{ secrets.CK_ORTAM }}
+        run: python3 araclar/bildirim_gonder.py
