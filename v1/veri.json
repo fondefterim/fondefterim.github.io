@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-20",
+ "updated": "2026-11-24",
  "funds": [
   {
    "code": "TLY",
@@ -856,6 +856,15 @@
   }
  ],
  "announcements": [
+  {
+   "id": "2026-11-24-surum-1-1",
+   "date": "2026-11-24",
+   "kind": "duyuru",
+   "notify": true,
+   "title": "Yeni sürüm 1.1 yayında",
+   "body": "iPad desteği, yeni genel duyurularda anlık bildirim ve fonu defterden kaldırma geldi. App Store'dan güncelleyebilirsin; kayıtların olduğu gibi kalır.",
+   "url": "https://apps.apple.com/app/id6836281635"
+  },
   {
    "id": "2026-11-20-app-store",
    "date": "2026-11-20",
