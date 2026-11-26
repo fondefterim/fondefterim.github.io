@@ -1,6 +1,6 @@
 {
  "format": 1,
- "updated": "2026-11-24",
+ "updated": "2026-11-26",
  "funds": [
   {
    "code": "TLY",
@@ -856,6 +856,14 @@
   }
  ],
  "announcements": [
+  {
+   "id": "2026-11-26-odeme-kaydet",
+   "date": "2026-11-26",
+   "kind": "duyuru",
+   "notify": true,
+   "title": "Ödeme geldiyse kaydetmeyi unutma",
+   "body": "Hesabına tasfiyeden bir ödeme geçtiyse Fon Defterim'e ekle; kalan alacağın güncel kalsın. Tutarı ve tarihi kendi aracı kurumunun bildiriminden kontrol et."
+  },
   {
    "id": "spk-bulten-2026-85",
    "date": "2026-11-25",
