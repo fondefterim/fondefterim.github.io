@@ -857,6 +857,17 @@
  ],
  "announcements": [
   {
+   "id": "spk-bulten-2026-85",
+   "date": "2026-11-25",
+   "kind": "duyuru",
+   "source": "spk",
+   "notify": true,
+   "title": "SPK Bülteni 2026/85",
+   "v": 2,
+   "body": "2026/85 sayılı SPK Bülteni. İçinde geçen kurucular: Bulls, Pardus, Pusula, Tera. Bu şirket adlarının geçtiği yerlerin yakınında idari para cezası, suç duyurusu ya da işlem yasağı ifadeleri var; ayrıntı için bülteni aç.",
+   "url": "https://spk.gov.tr/data/6b074a0b8f95db1270c37ee7/2026-85.pdf"
+  },
+  {
    "id": "2026-11-24-surum-1-1",
    "date": "2026-11-24",
    "kind": "duyuru",
