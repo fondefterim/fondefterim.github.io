@@ -857,6 +857,17 @@
  ],
  "announcements": [
   {
+   "id": "spk-bulten-2026-86",
+   "date": "2026-11-27",
+   "kind": "duyuru",
+   "source": "spk",
+   "notify": true,
+   "title": "SPK Bülteni 2026/86",
+   "v": 2,
+   "body": "2026/86 sayılı SPK Bülteni. İçinde geçen kurucular: A1 Capital, Bulls, Hedef, Pardus, Tera. Bu şirket adlarının geçtiği yerlerin yakınında idari para cezası, suç duyurusu ya da işlem yasağı ifadeleri var; ayrıntı için bülteni aç.",
+   "url": "https://spk.gov.tr/data/6b09e5fe8f95db29b4c8c2c9/2026-86.pdf"
+  },
+  {
    "id": "2026-11-26-odeme-kaydet",
    "date": "2026-11-26",
    "kind": "duyuru",
